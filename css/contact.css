@@ -1,0 +1,25 @@
+
+
+.container{
+    width: 20%;
+}
+
+td{
+    text-align: left;
+    
+}
+
+label{
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+th{
+    text-align: left;
+   line-height: 18px;
+}
+
+.submit-btn{
+   
+    margin: auto;
+
+}
